@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p>
-<img src="/ui_practice/assets/screenshots/ss.gif" alt="screenshot 0" width="200">
+<img src="/assets/screenshots/ss.gif" alt="screenshot 0" width="200">
 </p>
 
 <p>
